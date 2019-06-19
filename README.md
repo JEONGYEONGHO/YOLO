@@ -1,2 +1,1 @@
-# YOLO
-YOLO_DETECTION_FILE
+파일이 커서  분할 압축으로 올리는점 정말 죄송합니다. 
